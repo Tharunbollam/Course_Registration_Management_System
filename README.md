@@ -23,7 +23,7 @@
 <img src="https://github.com/Abhinay-c/Hostel_management_system/assets/128614447/0edf558d-b0e3-4c59-a223-2efbcfe6a88f" alt="erd">
 
 ## Relationship Schema
-<img src="" alt="erd">
+<img src="https://github.com/Tharunbollam/Course_Registration_Management_System/assets/128614447/63078e7c-e802-43e8-bef8-412027c8bb67" alt="erd">
 
 
 # Contributors
