@@ -30,12 +30,12 @@
 <table>
     <tr>
         <th>
-            <img src="" alt="TB" width = 130px>
+            <img src="https://github.com/Tharunbollam/Course_Registration_Management_System/assets/128614447/4360a58c-4b4a-4833-aa51-c37fd0269f4d" alt="TB" width = 130px>
             <br>
             <a href="https://github.com/Tharunbollam">Tharun Bollam</a>
         </th>
         <th>
-            <img src="" alt="RA" width = 150px>
+            <img src="https://github.com/Tharunbollam/Course_Registration_Management_System/assets/128614447/89b3ed3d-c32e-4eec-9eed-35f75e1e3bed" alt="RA" width = 130px>
             <br>
             <a href="https://github.com/RoshanKumar26">Roshan Kumar</a>
         </th>
