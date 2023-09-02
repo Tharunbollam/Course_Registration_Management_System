@@ -40,8 +40,8 @@ phone_number BIGINT NOT NULL
 );
 
 CREATE TABLE faculty_adv(
-fac_id VARCHAR(10) PRIMARY KEY,
-dept VARCHAR(20),
+fac_id VARCHAR(10),
+dept VARCHAR(20) PRIMARY KEY,
 email VARCHAR(50),
 pass_word VARCHAR(20),
 FOREIGN KEY (fac_id) references faculty(faculty_id),
